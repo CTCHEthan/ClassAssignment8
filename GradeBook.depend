@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541116794 source:c:\users\eh276017\desktop\gradebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GradeBook.h"
+
+1541116787 c:\users\eh276017\desktop\gradebook\gradebook.h
+
